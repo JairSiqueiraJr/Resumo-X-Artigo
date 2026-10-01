@@ -45,7 +45,7 @@ Tema delimitado e justificativa:
 Foco em Solução Tecnológica.
 O descarte irregular de aparelhos eletrônicos prejudica o meio ambiente e pode causar riscos à saúde humana. Além disso, muitos desses materiais podem ser reciclados e reaproveitados. Uma solução tecnológica pode ajudar a orientar a população e facilitar o descarte correto.
 
-## Checklist
+## Checklist -
 
 - [V] O tema é específico.
 - [V] O tema é relevante.
